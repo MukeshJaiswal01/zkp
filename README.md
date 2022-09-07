@@ -9,4 +9,5 @@ https://twitter.com/0xfoobar/status/1549779031314284544  <br><br><br><br>
 
 
 https://crypto.ethz.ch/publications/files/Maurer09.pdf<br>
+https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf
 
